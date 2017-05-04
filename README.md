@@ -1,4 +1,4 @@
-# Platform used for storing Achitectural Design Records 
+# Platform used for storing Achitectural Decision Records 
 An architectural decision record provides that history by acting as a collection of architecturally significant decisions, in a succinct, structured format, which describes exactly how something changed at a given point in time. They provide a way to understand how and why an architecture has evolved as it has grown.
 </br>
 (I coppied that one)
